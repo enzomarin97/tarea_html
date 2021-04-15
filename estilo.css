@@ -1,0 +1,169 @@
+body{
+  background: #33FF61 ;
+}
+/*Index*/
+h1{
+  margin: auto;
+  height: auto;
+  width: auto;
+  font-size: 70px;
+  padding: 5px;
+  font-family: cursive;
+  text-align: center;
+  position: relative;
+  
+}
+.caja_padre{
+  background: #33ACFF;
+  margin: 0 auto;
+  padding: 10px;
+  position: relative;
+  border: 10px solid #000;
+  width: 800px;
+  height: 450px;
+  text-align: center;
+}
+.enzo{
+  font-size: 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: auto;
+  position: absolute;
+  top: 10px;
+  left: 300px;  
+  text-align: center;
+}
+.bio{
+  border: blue solid 5px;
+  /*display: inline-block;*/
+  position: absolute;
+  top: 100px;
+  left: 300px;
+  width: auto;
+  height: auto;
+  color: white;
+  background: blueviolet;
+  font-size: 50px;
+  padding: 10px;
+  text-align: center;  
+}
+.contact{
+  border: blue solid 5px;
+  /*display: inline-block;*/
+  position: absolute;
+  top: 200px;
+  left: 300px;
+  width: auto ;
+  height: auto;
+  color: white;
+  background: blueviolet;
+  padding: 10px;
+  font-size: 50px;
+  text-align: center;  
+}
+.cv{
+  border: blue solid 5px;
+  /*display: inline-block;*/
+  position: absolute;
+  top: 300px;
+  left: 300px;
+  width: 260px ;
+  height: auto;
+  color: white;
+  background: blueviolet;
+  padding: 10px;
+  font-size: 50px;
+  text-align: center;
+}
+/* Biografia */
+.estilo_bio{
+  background: #8633FF;
+}
+.caja_bio{
+  margin: auto;
+  border: black solid 5px;
+  background: crimson;
+  width: auto;
+  height: auto;
+  color: azure;
+  font-size: 40px;  
+  font-family: Georgia, 'Times New Roman', Times, 
+  serif;
+  position: relative;
+  top: 100px;
+}
+.titulo_bio{
+  margin: auto;
+  text-align: center;
+}
+.ancla_bio_index{
+  margin: auto;
+  position: relative;
+  color: rgb(39, 179, 21);
+  font-size: 50px;
+  font-family: fantasy;
+  position: relative;
+  top: 150px;
+}
+/* Contacto */
+.estilo_contacto{
+  background: rgb(30, 240, 48);
+}
+
+.caja_contacto{
+  margin: auto;
+  background: cyan;
+  border: black solid 5px;
+  width: 910px;
+  height: auto;
+  position: relative;
+  top: 10px;
+}
+
+.titulo_contacto{
+  margin: auto;
+  text-align: center;
+  font-size: 60px;
+}
+.ancla_contacto_index{
+  margin: auto;
+  position: relative;
+  color: rgb(21, 45, 179);
+  font-size: 50px;
+  font-family: fantasy;
+  position: relative;
+  top: 40px;
+}
+.p_contacto{
+  font-size: 40px;
+}
+/*Experiencia Laboral*/
+.estilo_cv{
+  background: darkorchid;
+}
+.caja_cv{
+  background: chartreuse;
+  padding: 10px;
+  margin: auto;
+  border: black solid 5px;
+  width: 850px;
+  height: auto;
+  position: relative;
+  top: 10px;
+  font-size: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.titulo_cv{
+  margin: auto;
+  text-align: center;
+  font-size: 40px;
+}
+.ancla_cv_index{
+  margin: auto;
+  position: relative;
+  color: rgb(21, 45, 179);
+  font-size: 50px;
+  font-family: fantasy;
+  position: relative;
+  top: 10px;
+}
